@@ -24,3 +24,4 @@ You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
 
+All codes to be checked using Betty and compiled using gcc
